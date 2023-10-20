@@ -25,7 +25,7 @@ bl_info = {
     "name": "Megascans Plugin - OPSTYIX Patch",
     "description": "Connects Blender to Quixel Bridge for one-click imports with shader setup and geometry",
     "author": "Quixel", "OPSTYIX"
-    "version": (3, 7, 0),
+    "version": (3, 8, 0),
     "blender": (4, 1, 0),
     "location": "File > Import",
     "warning": "", # used for warning icon and text in addons panel
