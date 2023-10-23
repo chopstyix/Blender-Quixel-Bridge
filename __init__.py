@@ -291,7 +291,7 @@ class MS_Init_ImportProcess():
         
         if self.isSpecularWorkflow:
             if "specular" in self.textureTypes:
-                self.CreateTextureNode("specular", -1150, 200, 0, True, "Specular")
+                self.CreateTextureNode("specular", -1150, 200, 0, True, "Specular IOR Level")
             
             if "gloss" in self.textureTypes:
                 glossNode = self.CreateTextureNode("gloss", -1150, -60)
